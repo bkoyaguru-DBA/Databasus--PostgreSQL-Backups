@@ -1,4 +1,4 @@
-# Databasus--PostgreSQL-Backups
+# Databasus:PostgreSQL-Backups
 
 # Databasus: PostgreSQL Backup Tool – Notes
 
